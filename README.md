@@ -168,7 +168,7 @@ DATA = {
 
 ### Basic Usage
 ```bash
-python unlike_insta_reels_script.py
+python unlike_insta_historical_liked_reels_script.py
 ```
 
 ### Testing the API First
